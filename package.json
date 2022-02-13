@@ -1,0 +1,10 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "js carousel",
+  "main": "index.js",
+  "repository": "https://github.com/yikl1004/carousel.git",
+  "author": "mkchun",
+  "license": "MIT",
+  "private": false
+}
